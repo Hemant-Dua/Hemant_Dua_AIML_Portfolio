@@ -1,0 +1,14 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Git backup
+*.orig
